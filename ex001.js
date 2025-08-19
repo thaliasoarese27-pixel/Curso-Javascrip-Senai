@@ -1,4 +1,4 @@
-let nome = "Thalia"
+let nome = "Maria"
 let sobrenome = "Soares"
 let idade = 28
 
