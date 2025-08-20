@@ -1,4 +1,4 @@
-let paisnatal = 'França'
+let paisnatal = 'Paris'
 console.log(`Você está vivendo em ${paisnatal}`)
 
 if (paisnatal == 'Brasil'){
